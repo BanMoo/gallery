@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>第十二夜 on AutoPhugo</title>
+    <link>http://example.org/acting/twelve_night/</link>
+    <description>Recent content in 第十二夜 on AutoPhugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>kc0bfv@gmail.com (Karl Sickendick)</managingEditor>
+    <webMaster>kc0bfv@gmail.com (Karl Sickendick)</webMaster>
+    <lastBuildDate>Tue, 29 Dec 2020 19:43:59 -0600</lastBuildDate><atom:link href="http://example.org/acting/twelve_night/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
